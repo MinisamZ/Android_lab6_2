@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuTickets"
+        android:icon="@drawable/tickets"
+        android:title="@string/tickets" />
+    <item
+        android:id="@+id/menuAdmin"
+        android:icon="@drawable/admin"
+        android:title="@string/admin"/>
+    <item
+        android:id="@+id/menuBus"
+        android:icon="@drawable/bus"
+        android:title="@string/bus"/>
+    <item
+        android:id="@+id/menuStatistics"
+        android:icon="@drawable/graph"
+        android:title="@string/statistics"/>
+    <item
+        android:id="@+id/menuPassenger"
+        android:icon="@drawable/passenger"
+        android:title="@string/passenger"/>
+    <item
+        android:id="@+id/menuSchedule"
+        android:icon="@drawable/schedule"
+        android:title="@string/schedule"/>
+    <item
+        android:id="@+id/menuHistory"
+        android:icon="@drawable/book"
+        android:title="@string/history"/>
+    <item
+        android:id="@+id/menuSettings"
+        android:icon="@drawable/settings"
+        android:title="@string/settings"/>
+</menu>

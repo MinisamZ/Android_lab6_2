@@ -11,4 +11,8 @@
     <color name="colorWhite">#ffffff</color>
     <color name="colorGreen">#32cd32</color>
     <color name="colorTest">#AAAAAA</color>
+    <color name="colorText1">#505050</color>
+    <color name="colorText2">#4F4F4F</color>
+    <color name="colorText3">#666666</color>
+    <color name="colorText4">#111111</color>
 </resources>
